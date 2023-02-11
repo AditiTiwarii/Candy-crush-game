@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Candy-crush-game/static/css/main.0e66234a.css",
+    "main.js": "/Candy-crush-game/static/js/main.1ed8cbdc.js",
+    "static/media/blueberry.png": "/Candy-crush-game/static/media/blueberry.35c28c3af9dd252208f6.png",
+    "static/media/orange.png": "/Candy-crush-game/static/media/orange.d207773af324afcab3b0.png",
+    "static/media/grapes.png": "/Candy-crush-game/static/media/grapes.17bceda8ba4981e063fc.png",
+    "static/media/cherry.png": "/Candy-crush-game/static/media/cherry.c721b488918f3e31e4b9.png",
+    "static/media/kiwi.png": "/Candy-crush-game/static/media/kiwi.15e7723742f451d5402f.png",
+    "static/media/mango.png": "/Candy-crush-game/static/media/mango.2ab7a9938467fbe30fca.png",
+    "static/media/blank.png": "/Candy-crush-game/static/media/blank.fbcb91799ceba75b2e3a.png",
+    "index.html": "/Candy-crush-game/index.html",
+    "main.0e66234a.css.map": "/Candy-crush-game/static/css/main.0e66234a.css.map",
+    "main.1ed8cbdc.js.map": "/Candy-crush-game/static/js/main.1ed8cbdc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0e66234a.css",
+    "static/js/main.1ed8cbdc.js"
+  ]
+}
